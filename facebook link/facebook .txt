@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>FACEBOOK</title>
+</head>
+<body>
+<center><h1>facebook</h1></center><hr>
+<img src="facebook.jpg" alt="facebook image" width="100%" height="600px" usemap="#facebook">
+<map name="facebook">
+<area shape="circle" coords="450,450,450" href="https://www.facebook.com">
+<hr>
+<h2>LINK FOR FACEBOOK</h2>
+<p>you can open facebook by clicking the photo located on the upper portion<br>
+or you can open it by clicking the link down there<br>
+<center><a href="https://www.facebook.com">F A C E B O O K</a></center>
+</body>
+</html> 

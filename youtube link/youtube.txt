@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> YOUTUBE </title>
+</head>
+<body>
+<center><h1>YOUTUBE </h1></center>
+<img src="youtube.jpg" width="100%" height="95%" usemap="#youtube">
+<map name="youtube">
+<area shape="circle" coords="560,350,245,768,678" href="https://www.youtube.com">
+<hr>
+<h2>YOUTUBE LINK</h2>
+<pre>
+			You can open the youtube using the link downthere or by clicking on the 
+					picture above to open it
+		<a href="https://www.youtube.com">Y O U T U B E</a>
+</body>
+</html>
